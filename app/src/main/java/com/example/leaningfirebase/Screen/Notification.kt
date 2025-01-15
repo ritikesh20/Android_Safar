@@ -22,6 +22,8 @@ fun Notification(navController: NavController) {
         contentAlignment = Alignment.Center
     ) {
         Column {
+            Text(text = "!ClickMe")
+            Text(text = "!ClickMe")
             Image(
                 painter = painterResource(id = R.drawable.tiktok), contentDescription = "",
                 modifier = Modifier.size(200.dp)

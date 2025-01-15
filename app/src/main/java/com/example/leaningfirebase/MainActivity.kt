@@ -13,6 +13,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             LeaningFireBaseTheme {
 
+
                 val navController = rememberNavController()
 
                 NavGraph(navController = navController)
