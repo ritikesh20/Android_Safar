@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475348652996",
+    "project_id": "leaningfirebase-89d1e",
+    "storage_bucket": "leaningfirebase-89d1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475348652996:android:9cd52dfe2187e72d628a91",
+        "android_client_info": {
+          "package_name": "com.example.leaningfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhqoKFCY_zqFWfkWSZcghNyu9sBUXhGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
